@@ -1,0 +1,51 @@
+body{
+
+	background: white;
+	color: #030337;
+	font-family: sans-serif;
+	margin: 0px;
+}
+
+.navbar{
+	}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #030337;
+	height: 300px;
+
+
+}
+li{
+	display: inline;
+	float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #E7E7F6;
+    color: #030337;
+}
+
+a{
+	color: #030337;
+	text-decoration: none;
+	padding-left: 20px;
+}
+a:hover{
+	background-color: white;
+	color: #030337;
+}
+
+.fix_table{
+	width: 300px;
+}
